@@ -2,7 +2,7 @@
 
 -----LTspiceのファイルについて-----
 
-Github (DCmotor)をZIPファイルとしてdownloadするのをお勧めします。
+GithubをZIPファイルとしてdownloadするのをお勧めします。
 
 GitHubリポジトリ全体をダウンロードする場合は、
 
